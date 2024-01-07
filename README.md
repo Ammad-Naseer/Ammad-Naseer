@@ -30,7 +30,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,json)](https://skillicons.dev)
 
+![Ammad Naseer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammad-naseer&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammad-naseer&theme=dark)
+
+
+<br>
 ⭐️ From [ammad-naseer](https://github.com/ammad-naseer)
 
 
