@@ -1,5 +1,6 @@
-<p align="center">
+<p align="center"><b>
   <h1>Hi, I'm Ammad Naseer! 👋</h1>
+</b>
 </p>
 
 
