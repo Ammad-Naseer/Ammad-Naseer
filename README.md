@@ -1,7 +1,7 @@
-<p align="center"><b>
-  <h1>Hi, I'm Ammad Naseer! 👋</h1>
-</b>
-</p>
+<div align="center">
+  <h1><b>Hi, I'm Ammad Naseer! 👋</b></h1>
+</div>
+
 
 
 - 🔭 Currently working on Flutter, Firebase, Shopify, and Frontend
@@ -21,9 +21,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,json)](https://skillicons.dev)
 
-### Languages and Tools:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammad-naseer&layout=compact)](https://github.com/ammad-naseer)
 
 ⭐️ From [ammad-naseer](https://github.com/ammad-naseer)
 
