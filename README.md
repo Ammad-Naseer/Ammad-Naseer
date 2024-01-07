@@ -1,9 +1,9 @@
 # Hi, I'm Ammad Naseer! 👋
 
-🔭 I’m currently working on Flutter, Firebase, Shopify, and Frontend
-🌱 I’m always learning and exploring new technologies
-💬 Ask me anything about Flutter, Firebase, or Shopify
-📫 How to reach me: [ammad.naseer33@example.com](mailto:ammad.naseer33@example.com)
+- 🔭 Currently working on Flutter, Firebase, Shopify, and Frontend
+- 🌱 Always learning and exploring new technologies
+- 💬 Ask me anything about Flutter, Firebase, or Shopify
+- 📫 Reach me at [ammad.naseer33@example.com](mailto:ammad.naseer33@example.com)
 
 ### Connect with Me:
 
