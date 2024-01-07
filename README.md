@@ -18,6 +18,7 @@
 ### Skills and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=liquid,html,css,javascript,jquery,json)](https://skillicons.dev)
 
 ### Languages and Tools:
 
