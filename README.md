@@ -12,7 +12,7 @@
 ### Connect with Me:
 
 [![Github Badge](https://img.shields.io/badge/-Ammad_Naseer-black?style=flat&logo=github&logoColor=white)](https://github.com/ammad-naseer)
-[![Twitter Badge](https://img.shields.io/badge/-YourTwitterHandle-blue?style=flat&logo=twitter&logoColor=white)](YOUR-TWITTER-LINK)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-AmmadNaseer2-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ammadnaseer2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammad_Naseer-blue?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/ammad-naseer-05aa521b9)
 
 ### Languages and Tools:
