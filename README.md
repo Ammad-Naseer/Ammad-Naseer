@@ -1,4 +1,7 @@
-# Hi, I'm Ammad Naseer! 👋
+<p align="center">
+  <b>Hi, I'm Ammad Naseer! 👋</b>
+</p>
+
 
 - 🔭 Currently working on Flutter, Firebase, Shopify, and Frontend
 - 🌱 Always learning and exploring new technologies
