@@ -17,11 +17,7 @@
 
 ### Skills and Tools:
 
-- **Flutter**
-- **Firebase**
-- **Shopify**
-- **Frontend Development**
-- [![My Skills](https://skillicons.dev/icons?i=flutter,firebase,shopify,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git)](https://skillicons.dev)
 
 ### Languages and Tools:
 
