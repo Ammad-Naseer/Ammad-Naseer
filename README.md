@@ -11,9 +11,18 @@
 
 ### Connect with Me:
 
-[![Github Badge](https://img.shields.io/badge/Github-Ammad_Naseer-blue?style=flat&logo=github&logoColor=white)](https://github.com/ammad-naseer)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Ammad_Naseer-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ammadnaseer2)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ammad_Naseer-blue?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/ammad-naseer-05aa521b9)
+<div id="badges">
+  <a href="https://github.com/ammad-naseer">
+    <img src="https://img.shields.io/badge/Github-Ammad_Naseer-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://twitter.com/ammadnaseer2">
+    <img src="https://img.shields.io/badge/Twitter-Ammad_Naseer-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://pk.linkedin.com/in/ammad-naseer-05aa521b9">
+    <img src="https://img.shields.io/badge/LinkedIn-Ammad_Naseer-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 ### Languages and Tools:
 
