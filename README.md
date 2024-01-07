@@ -7,7 +7,7 @@
 - 🔭 Currently working on Flutter, Firebase, Shopify, and Frontend
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me anything about Flutter, Firebase, or Shopify
-- 📫 Reach me at [ammad.naseer33@example.com](mailto:ammad.naseer33@example.com)
+- 📫 Reach me at [ammad.naseer33@gmail.com](mailto:ammad.naseer33@gmail.com)
 
 ### Connect with Me:
 
