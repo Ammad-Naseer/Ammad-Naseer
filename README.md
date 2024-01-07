@@ -15,7 +15,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-YourTwitterHandle-blue?style=flat&logo=twitter&logoColor=white)](YOUR-TWITTER-LINK)
 [![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-LINK)
 
-### Skills and Tools:
+### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git)](https://skillicons.dev)
 
