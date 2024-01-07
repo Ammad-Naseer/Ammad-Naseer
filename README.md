@@ -21,6 +21,7 @@
 - **Firebase**
 - **Shopify**
 - **Frontend Development**
+- [![My Skills](https://skillicons.dev/icons?i=flutter,firebase,shopify,html,css,js)](https://skillicons.dev)
 
 ### Languages and Tools:
 
